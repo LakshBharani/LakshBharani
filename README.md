@@ -21,8 +21,6 @@
 :zap: Full Stack Developer from India. <br>
 :seedling: Always growing in the evergreen field of Tech.
 
----
-
 ### :hammer_and_wrench: Languages and Tools :
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
@@ -49,3 +47,5 @@
 ---
 
 ### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LakshBharani&theme=radical&card_width=550)](https://git.io/streak-stats) <br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshBharani&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)

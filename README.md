@@ -19,7 +19,7 @@
 </div>
 
 :zap: Full Stack Developer from India. <br>
-:seedling: Always growing in the evergreen field of Tech.
+:seedling: Always growing.
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>

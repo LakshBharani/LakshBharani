@@ -55,4 +55,5 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=LakshBharani&theme=merko&card_width=595&fire=EB7500&currStreakNum=EBEBEB&sideNums=EBEBEB)](https://git.io/streak-stats)<br>
+[![trophy](https://github-profile-trophy.vercel.app/?username=LakshBharani&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LakshBharani&layout=compact&theme=merko)](https://github.com/anuraghazra/github-readme-stats)

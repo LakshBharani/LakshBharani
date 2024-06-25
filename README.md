@@ -21,9 +21,7 @@
 :zap: I'm a full stack developer with avid interest in App development and Computer Vision <br>
 :seedling: Always growing.
 
-### :hammer_and_wrench: Languages and Tools :
-
-## Skills
+## :hammer_and_wrench: Languages and Tools :
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)

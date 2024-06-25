@@ -18,7 +18,7 @@
   </h1>
 </div>
 
-:zap: Full Stack Developer from India. <br>
+:zap: I'm a full stack developer with interest in App development and Computer Vision <br>
 :seedling: Always growing.
 
 ### :hammer_and_wrench: Languages and Tools :
